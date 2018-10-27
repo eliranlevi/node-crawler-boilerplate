@@ -53,7 +53,7 @@ app.listen(3000);
 
 ## Future
 
-- it would be nice to add a script to run tests
+- It would be nice to add a script to run tests
 
 ## Suggestions
 
