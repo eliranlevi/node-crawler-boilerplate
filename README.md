@@ -13,7 +13,7 @@ Just clone the repo, write your crawler and run `yarn run serve`
 
 ## Scripts
 
-- `yarn run serve` - serves the app on `localhost:3000`
+- `yarn run serve` - serves the app on `localhost` in watch mode
 - `yarn run build` - builds the project, the out directory is `/dist`
 
 ## Basic example
@@ -50,6 +50,7 @@ app.listen(3000);
 - [request-promise-native](https://github.com/request/request-promise-native) - use `Promise`s in Node requests
 - [express](https://github.com/expressjs/express) - watch (and interact) whatever you expect in the browesr rather than CLI
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - be able to use `Promise`s in filesystem methods rather than callbacks
+- [nodemon](https://github.com/remy/nodemon) - run your server in watch mode
 
 ## Future
 
