@@ -9,11 +9,11 @@ Minimal Node crawler boilerplate with modern ES6 features built-in (i.e. [`Promi
 
 ## How?
 
-Just clone the repo, write your crawler and run `yarn run serve`
+Just clone the repo, write your crawler and run `yarn start`
 
 ## Scripts
 
-- `yarn run serve` - serves the app on `localhost` in watch mode
+- `yarn start` - serves the app on `localhost` in watch mode
 - `yarn run build` - builds the project, the out directory is `/dist`
 
 ## Basic example
