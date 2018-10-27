@@ -57,7 +57,7 @@ app.listen(3000);
 
 ## Suggestions
 
-- If you use the fs - [fs-extra](https://github.com/jprichardson/node-fs-extra) - be able to use `Promise`s in filesystem methods rather than callbacks
+- If you use the fs - [fs-extra](https://github.com/jprichardson/node-fs-extra) - be able to use `Promise`s in filesystem methods instead of callbacks
 
 ## License
 
