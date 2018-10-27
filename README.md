@@ -9,7 +9,7 @@ Minimal Node crawler boilerplate with modern ES6 features built-in (i.e. [`Promi
 
 ## How?
 
-Just clone the repo, write your crawler and run `yarn start`
+Just clone the repo, install the dependencies (`yarn install`), write your crawler and run `yarn start`, voilà!
 
 ## Scripts
 
