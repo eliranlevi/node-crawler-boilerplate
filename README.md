@@ -1,6 +1,6 @@
 # Node crawler boilerplate
 
-Minimal Node crawler boilerplate with modern ES6 features built-in (i.e. [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)s in requests and fs methods, [`import/export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) syntax, etc.), cheerio and express
+Minimal Node crawler boilerplate with modern ES6 features built-in (i.e. [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)s in requests, [`import/export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) syntax, etc.), cheerio and express
 
 ## Goals
 
