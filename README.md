@@ -1,6 +1,6 @@
 # Node crawler boilerplate
 
-Minimal Node crawler boilerplate with modern ES6 features built-in (i.e. `Promise`s in requests and fs methods, `import` syntax, etc.), cheerio and express
+Minimal Node crawler boilerplate with modern ES6 features built-in (i.e. [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)s in requests and fs methods, [`import/export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) syntax, etc.), cheerio and express
 
 ## Goals
 
@@ -45,7 +45,7 @@ app.listen(3000);
 
 ## Packages 
 
-- [TypeScript](https://github.com/Microsoft/TypeScript) is here just to get modern ES6 features in Node, like `import`
+- [TypeScript](https://github.com/Microsoft/TypeScript) is here just to get modern ES6 features in Node, like `import/export`
 - [cheerio](https://github.com/cheeriojs/cheerio) - jQuery-like selectors for Node
 - [request-promise-native](https://github.com/request/request-promise-native) - use `Promise`s in Node requests
 - [express](https://github.com/expressjs/express) - watch (and interact) whatever you expect in the browesr rather than CLI
