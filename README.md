@@ -49,9 +49,16 @@ app.listen(3000);
 - [cheerio](https://github.com/cheeriojs/cheerio) - jQuery-like selectors for Node
 - [request-promise-native](https://github.com/request/request-promise-native) - use `Promise`s in Node requests
 - [express](https://github.com/expressjs/express) - watch (and interact) whatever you expect in the browesr rather than CLI
-- [fs-extra](https://github.com/jprichardson/node-fs-extra) - be able to use `Promise`s in filesystem methods rather than callbacks
 - [nodemon](https://github.com/remy/nodemon) - runs the server in watch mode (i.e. will rebuild each time the code has changed)
 
 ## Future
 
 - it would be nice to add a script to run tests
+
+## Suggestions
+
+- If you use the fs - [fs-extra](https://github.com/jprichardson/node-fs-extra) - be able to use `Promise`s in filesystem methods rather than callbacks
+
+## License
+
+MIT
