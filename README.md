@@ -33,7 +33,7 @@ app.get("/", async (req, res) => {
   });
   
   const header = $("h1").text();
-  // ...do rest of your crawl...
+  // ...do the rest of your crawling...
   
   // send whatever you'd like to the browser
   res.send(header);
