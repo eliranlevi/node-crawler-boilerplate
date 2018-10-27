@@ -50,7 +50,7 @@ app.listen(3000);
 - [request-promise-native](https://github.com/request/request-promise-native) - use `Promise`s in Node requests
 - [express](https://github.com/expressjs/express) - watch (and interact) whatever you expect in the browesr rather than CLI
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - be able to use `Promise`s in filesystem methods rather than callbacks
-- [nodemon](https://github.com/remy/nodemon) - runs the server in watch mode
+- [nodemon](https://github.com/remy/nodemon) - runs the server in watch mode (i.e. will rebuild each time the code has changed)
 
 ## Future
 
