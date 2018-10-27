@@ -62,3 +62,6 @@ app.listen(3000);
 ## License
 
 MIT
+
+---
+Thanks for using this boilerplate! 🙏 [@eliranlevi](https://github.com/eliranlevi)
